@@ -142,8 +142,8 @@ Add("H.", Chr(0x1E24))
 ; ------------------------------------------------------------
 
 Add("''", Chr(0x2019))
-Add("|.", Chr(0x0964))
 Add("||.", Chr(0x0965))
+Add("|.", Chr(0x0964))
 
 ; Suspend/resume all conversions.
 #SuspendExempt
