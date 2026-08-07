@@ -1,5 +1,7 @@
 # EasySanskrit-AutoHotkey
 
+Version 1.0.0
+
 [日本語](README_ja.md)
 
 A simple AutoHotkey v2 script for typing romanized Sanskrit
