@@ -1,5 +1,7 @@
 [English](README.md)
 
+Version 1.0.0
+
 AutoHotkey v2を利用して、サンスクリット語のローマ字表記を簡便に入力するためのスクリプトです。
 
 ## 動作環境
