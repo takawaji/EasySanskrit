@@ -32,5 +32,15 @@ A simple AutoHotkey v2 script for typing romanized Sanskrit
 ## Suspend and resume
 Press `Ctrl + Alt + F12` to suspend or resume all conversions.
 
+## Keyboard Layouts
+
+EasySanskrit has been tested with the following Windows keyboard layouts:
+
+- Japanese
+- English (US)
+- German
+
+The input rules are the same for all supported keyboard layouts. However, the physical key positions and key combinations required to enter symbols such as `~`, `^`, `|`, and `=` may differ depending on the keyboard layout.
+
 ## License
 MIT License
