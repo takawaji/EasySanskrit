@@ -2,7 +2,7 @@
 
 Version 1.0.0
 
-[日本語](README_ja.md)
+[日本語](README_ja.md) | [Deutsch](README_de.md)
 
 A simple AutoHotkey v2 script for typing romanized Sanskrit
 
