@@ -9,7 +9,7 @@ Ein einfaches AutoHotkey-v2-Skript zur Eingabe von romanisiertem Sanskrit
 ## Anforderungen
 
 - Windows
-- AutoHotkey v2
+- [AutoHotkey v2](https://www.autohotkey.com/)
 
 ## Installation
 
