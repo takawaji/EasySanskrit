@@ -1,3 +1,5 @@
+# EasySanskrit-AutoHotkey
+
 [English](README.md) | [Deutsch](README_de.md)
 
 Version 1.0.0
