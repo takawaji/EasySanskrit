@@ -9,7 +9,7 @@ AutoHotkey v2を利用して、サンスクリット語のローマ字表記を�
 ## 動作環境
 
 - Windows
-- AutoHotkey v2
+- [AutoHotkey v2](https://www.autohotkey.com/)
 
 ## 使用方法
 
