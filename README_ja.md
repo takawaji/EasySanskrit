@@ -1,8 +1,8 @@
 # EasySanskrit-AutoHotkey
 
-[English](README.md) | [Deutsch](README_de.md)
-
 Version 1.0.0
+
+[English](README.md) | [Deutsch](README_de.md)
 
 AutoHotkey v2を利用して、サンスクリット語のローマ字表記を簡便に入力するためのスクリプトです。
 
