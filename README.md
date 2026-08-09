@@ -8,7 +8,7 @@ A simple AutoHotkey v2 script for typing romanized Sanskrit
 
 ## Requirements
 - Windows
-- AutoHotkey v2
+- [AutoHotkey v2](https://www.autohotkey.com/)
 
 ## Installation
 1. Install AutoHotkey v2.
