@@ -40,7 +40,7 @@ EasySanskrit has been tested with the following Windows keyboard layouts:
 - English (US)
 - German
 
-The input rules are the same for all supported keyboard layouts. However, the physical key positions and key combinations required to enter symbols such as `~`, `^`, `|`, and `=` may differ depending on the keyboard layout.
+The input rules are the same for all tested keyboard layouts. However, the physical key positions and key combinations required to enter symbols such as `~`, `^`, `|`, and `=` may differ depending on the keyboard layout.
 
 ## License
 MIT License
