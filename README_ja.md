@@ -1,6 +1,6 @@
 # EasySanskrit-AutoHotkey
 
-Version 1.0.0
+Version 1.0.1
 
 [English](README.md) | [Deutsch](README_de.md)
 
