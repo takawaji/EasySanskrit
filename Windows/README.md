@@ -1,4 +1,4 @@
-# EasySanskrit-AutoHotkey
+# EasySanskrit
 
 Version 1.0.1
 
