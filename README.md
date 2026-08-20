@@ -14,7 +14,7 @@ Version 1.0.0
 
 EasySanskrit for macOS is implemented as a Hammerspoon Spoon.
 
-[Documentation](macos/README.md)
+[Documentation](macOs/README.md)
 
 ## Releases
 
