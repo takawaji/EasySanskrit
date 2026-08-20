@@ -1,4 +1,4 @@
-# EasySanskrit
+# EasySanskrit for Windows
 
 Version 1.0.1
 
