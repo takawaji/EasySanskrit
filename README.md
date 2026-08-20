@@ -1,46 +1,70 @@
-# EasySanskrit-AutoHotkey
+# EasySanskrit
+
+EasySanskrit is an input support tool for typing Romanized Sanskrit.
+
+It provides simple input rules based mainly on the visual shapes of diacritical marks.
+
+For example:
+
+- `a=` → ā
+- `r.` → ṛ
+- `r.=` → ṝ
+- `n~` → ñ
+- `n^` → ṅ
+- `s'` → ś
+
+EasySanskrit is available for both Windows and macOS.
+
+## Versions
+
+### EasySanskrit for Windows
 
 Version 1.0.1
 
-[日本語](README_ja.md) | [Deutsch](README_de.md)
+EasySanskrit for Windows is implemented as an AutoHotkey v2 script.
 
-A simple AutoHotkey v2 script for typing romanized Sanskrit
+See:
 
-## Requirements
-- Windows
-- [AutoHotkey v2](https://www.autohotkey.com/)
+[EasySanskrit for Windows](windows/README.md)
 
-## Installation
-1. Install AutoHotkey v2.
-2. Download `EasySanskrit.ahk`.
-3. Double-click `EasySanskrit.ahk` to run it.
+### EasySanskrit for macOS
 
-## Basic input rules
-| Input | Output |
+Version 1.0.0
+
+EasySanskrit for macOS is implemented as a Hammerspoon Spoon.
+
+See:
+
+[EasySanskrit for macOS](macos/README.md)
+
+## Input Rules
+
+EasySanskrit for Windows and EasySanskrit for macOS use the same input rules.
+
+The input rules are designed so that many characters can be entered using symbols that resemble their diacritical marks.
+
+Examples:
+
+| Output | Input |
 |---|---|
-| `a=` | ā |
-| `i=` | ī |
-| `u=` | ū |
-| `r.` | ṛ |
-| `r.=` | ṝ |
-| `s.` | ṣ |
-| `m.` | ṃ |
-| `h.` | ḥ |
-| `n^` | ṅ |
-| `n~` | ñ |
+| ā | `a=` |
+| ṛ | `r.` |
+| ṝ | `r.=` |
+| ṅ | `n^` |
+| ñ | `n~` |
+| ś | `s'` |
+| ṃ | `m.` |
+| ḥ | `h.` |
 
-## Suspend and resume
-Press `Ctrl + Alt + F12` to suspend or resume all conversions.
+For complete input rules and installation instructions, see the README for each platform.
 
-## Keyboard Layouts
+## Platforms
 
-EasySanskrit has been tested with the following Windows keyboard layouts:
-
-- Japanese
-- English (US)
-- German
-
-The input rules are the same for all tested keyboard layouts. However, the physical key positions and key combinations required to enter symbols such as `~`, `^`, `|`, and `=` may differ depending on the keyboard layout.
+| Platform | Implementation | Version |
+|---|---|---|
+| Windows | AutoHotkey v2 | 1.0.1 |
+| macOS | Hammerspoon | 1.0.0 |
 
 ## License
+
 MIT License
