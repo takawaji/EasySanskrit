@@ -6,7 +6,7 @@ Version 1.0.1
 
 EasySanskrit for Windows is implemented as an AutoHotkey v2 script.
 
-[Documentation](windows/README.md)
+[Documentation](Windows/README.md)
 
 ### EasySanskrit for macOS
 
