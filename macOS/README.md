@@ -1,7 +1,7 @@
 
 # EasySanskrit for macOS
 
-Version 1.0.0
+Version 1.0.1
 
 EasySanskrit for macOS is a Hammerspoon Spoon for typing Romanized Sanskrit on macOS.
 
@@ -157,8 +157,6 @@ produces:
 | Symbol | Output | Input |
 |---|---|---|
 | Avagraha | ’ | `''` |
-| Danda | । | `\|.` |
-| Double danda | ॥ | `\|\|.` |
 
 ## Pause and Resume Conversion
 
