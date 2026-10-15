@@ -1,6 +1,6 @@
 # EasySanskrit for Windows
 
-Version 1.0.1
+Version 1.0.2
 
 [日本語](README_ja.md) | [Deutsch](README_de.md)
 
@@ -40,7 +40,7 @@ EasySanskrit has been tested with the following Windows keyboard layouts:
 - English (US)
 - German
 
-The input rules are the same for all tested keyboard layouts. However, the physical key positions and key combinations required to enter symbols such as `~`, `^`, `|`, and `=` may differ depending on the keyboard layout.
+The input rules are the same for all tested keyboard layouts. However, the physical key positions and key combinations required to enter symbols such as `~`, `^` and `=` may differ depending on the keyboard layout.
 
 ## License
 MIT License
