@@ -2,7 +2,7 @@
 
 ### EasySanskrit for Windows
 
-Version 1.0.1
+Version 1.0.2
 
 EasySanskrit for Windows is implemented as an AutoHotkey v2 script.
 
