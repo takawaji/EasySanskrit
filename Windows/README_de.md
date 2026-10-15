@@ -1,6 +1,6 @@
 # EasySanskrit for Windows
 
-Version 1.0.1
+Version 1.0.2
 
 [English](README.md) | [日本語](README_ja.md)
 
@@ -44,7 +44,7 @@ EasySanskrit wurde mit den folgenden Windows-Tastaturlayouts getestet:
 - Englisch (US)
 - Deutsch
 
-Die Eingaberegeln sind bei allen getesteten Tastaturlayouts gleich. Die Positionen der Tasten sowie die Tastenkombinationen für Zeichen wie `~`, `^`, `|` und `=` können jedoch je nach Tastaturlayout unterschiedlich sein.
+Die Eingaberegeln sind bei allen getesteten Tastaturlayouts gleich. Die Positionen der Tasten sowie die Tastenkombinationen für Zeichen wie `~`, `^` und `=` können jedoch je nach Tastaturlayout unterschiedlich sein.
 
 ## Lizenz
 
