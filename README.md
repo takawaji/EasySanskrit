@@ -10,7 +10,7 @@ EasySanskrit for Windows is implemented as an AutoHotkey v2 script.
 
 ### EasySanskrit for macOS
 
-Version 1.0.0
+Version 1.0.1
 
 EasySanskrit for macOS is implemented as a Hammerspoon Spoon.
 
